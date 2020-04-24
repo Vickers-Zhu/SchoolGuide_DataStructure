@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1515045498 source:d:\projects\codeblocks\change\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"Scenespot.h"
+	"Ljjz.h"
+	"EgeTest.h"
+	"Arti.h"
+
+1514983672 d:\projects\codeblocks\change\scenespot.h
+	"stdio.h"
+	"stdlib.h"
+
+1515056258 d:\projects\codeblocks\change\ljjz.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
+1514962102 d:\projects\codeblocks\change\egetest.h
+	<stdio.h>
+
+1515045697 d:\projects\codeblocks\change\arti.h
+	"stdio.h"
+	"math.h"
+
